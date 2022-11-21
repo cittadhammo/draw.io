@@ -1,76 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T15:45:45.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="f-j2hjsL0s98_wChsyk1" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T16:02:08.385Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="M0ivGvutmu9qoYnMRrIG" version="20.5.3" type="github">
   <diagram id="pmwp8M2MsjxqH991G53e" name="Page-1">
-    <mxGraphModel dx="1318" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-40" value="can modify" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.431;exitDx=0;exitDy=0;entryX=0.011;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=17;exitPerimeter=0;" edge="1" parent="1" source="VPEV5X91bTU66ZTB7MsX-1" target="VPEV5X91bTU66ZTB7MsX-38">
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-40" value="can modify" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.431;exitDx=0;exitDy=0;entryX=0.011;entryY=0.548;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Cormorant SC;fontSize=17;exitPerimeter=0;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" edge="1" parent="1" source="VPEV5X91bTU66ZTB7MsX-1" target="VPEV5X91bTU66ZTB7MsX-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-1" value="Kitchen Concil" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=Helvetica;fontSize=22;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="191" y="175.22" width="444.13" height="329.99" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-1" value="Kitchen Concil" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=Cormorant SC;fontSize=22;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;arcSize=50;strokeWidth=2;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="362" y="165.22" width="444.13" height="329.99" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-4" value="Meets Montly" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;textOpacity=90;" vertex="1" parent="1">
-          <mxGeometry x="419.07" y="145.22" width="80" height="30" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-4" value="Meets Montly" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontFamily=Cormorant SC;fontSize=10;textOpacity=90;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="590.0699999999999" y="135.22" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-8" value="Guest Monk" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="229.07" y="265.22" width="80" height="50" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-8" value="Guest Monk" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="400.07" y="255.22000000000003" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-9" value="Guest Nun" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="509.07" y="265.22" width="80" height="50" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-9" value="Guest Nun" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="680.0699999999999" y="255.22000000000003" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-10" value="Kitchen Liaison" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="319.07" y="215.22" width="80" height="50" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-10" value="Kitchen Liaison" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="490.06999999999994" y="205.22" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-11" value="Kitchen Supervisor" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="419.07" y="215.22" width="80" height="50" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-11" value="Kitchen Supervisor" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="590.0699999999999" y="205.22" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-13" value="Kitchen&lt;br style=&quot;font-size: 13px;&quot;&gt;Assistant" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="373.07" y="423.22" width="80" height="50" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-13" value="Kitchen&lt;br style=&quot;font-size: 13px;&quot;&gt;Assistant" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="544.0699999999999" y="413.22" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-19" value="Kitchen&lt;br style=&quot;font-size: 13px;&quot;&gt;Assistant" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="373.07" y="430.22" width="80" height="50" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-19" value="Kitchen&lt;br style=&quot;font-size: 13px;&quot;&gt;Assistant" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="544.0699999999999" y="420.22" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-20" value="Kitchen&lt;br style=&quot;font-size: 13px;&quot;&gt;Assistants" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="373.07" y="437.22" width="80" height="50" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-20" value="Kitchen&lt;br style=&quot;font-size: 13px;&quot;&gt;Assistants" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="544.0699999999999" y="427.22" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-21" value="Kitchen&lt;br style=&quot;font-size: 13px;&quot;&gt;Assistant" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="479.07" y="402.22" width="80" height="50" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-21" value="Kitchen&lt;br style=&quot;font-size: 13px;&quot;&gt;Assistant" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="650.0699999999999" y="392.22" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-22" value="Kitchen&lt;br style=&quot;font-size: 13px;&quot;&gt;Assistant" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="479.07" y="409.22" width="80" height="50" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-22" value="Kitchen&lt;br style=&quot;font-size: 13px;&quot;&gt;Assistant" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="650.0699999999999" y="399.22" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-23" value="Head&lt;br style=&quot;font-size: 13px;&quot;&gt;Cooks" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="479.07" y="416.22" width="80" height="50" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-23" value="Head&lt;br style=&quot;font-size: 13px;&quot;&gt;Cooks" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="650.0699999999999" y="406.22" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-24" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Nun&#39;s&lt;br style=&quot;&quot;&gt;&amp;nbsp;&lt;font style=&quot;font-size: 11px;&quot;&gt;Representative&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="531.07" y="338.22" width="80" height="50" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-24" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Nun&#39;s&lt;br style=&quot;&quot;&gt;&amp;nbsp;&lt;font style=&quot;font-size: 11px;&quot;&gt;Representative&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="702.07" y="328.22" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-28" value="Kitchen&lt;br style=&quot;font-size: 13px;&quot;&gt;Assistant" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="269.07" y="409.22" width="80" height="50" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-28" value="Kitchen&lt;br style=&quot;font-size: 13px;&quot;&gt;Assistant" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="440.07" y="399.22" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-29" value="Kitchen&lt;br style=&quot;font-size: 13px;&quot;&gt;Assistant" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="269.07" y="416.22" width="80" height="50" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-29" value="Kitchen&lt;br style=&quot;font-size: 13px;&quot;&gt;Assistant" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="440.07" y="406.22" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-30" value="Dana Team" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="269.07" y="423.22" width="80" height="50" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-30" value="Dana Team" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="440.07" y="413.22" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-33" value="Larder Manager" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="212.07" y="338.22" width="80" height="50" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-33" value="Larder Manager" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="383.07" y="328.22" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;oversees&lt;/font&gt;" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=14;verticalAlign=middle;horizontal=1;" edge="1" parent="1" source="VPEV5X91bTU66ZTB7MsX-37" target="VPEV5X91bTU66ZTB7MsX-1">
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;oversees&lt;/font&gt;" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Cormorant SC;fontSize=14;verticalAlign=middle;horizontal=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" edge="1" parent="1" source="VPEV5X91bTU66ZTB7MsX-37" target="VPEV5X91bTU66ZTB7MsX-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-37" value="Amaravati Steering Comitee" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Helvetica;fontSize=21;fillColor=#f8cecc;strokeColor=#000000;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="256.13" y="50" width="313.87" height="50" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-37" value="Amaravati Steering Comitee" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=Cormorant SC;fontSize=21;fillColor=#f8cecc;strokeColor=#000000;arcSize=50;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="427.13" y="40" width="313.87" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-38" value="Kitchen Manual" style="shape=card;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Helvetica;fontSize=16;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="720" y="423.22" width="90" height="122.22" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-38" value="Kitchen Manual" style="shape=card;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=2;fontFamily=Cormorant SC;fontSize=16;fillColor=#dae8fc;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="950" y="240.00000000000003" width="90" height="122.22" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-43" value="Meets Quaterly" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=10;textOpacity=90;" vertex="1" parent="1">
-          <mxGeometry x="414" y="20" width="80" height="30" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-43" value="Meets Quaterly" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontFamily=Cormorant SC;fontSize=10;textOpacity=90;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;" vertex="1" parent="1">
+          <mxGeometry x="585" y="10" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
