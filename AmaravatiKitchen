@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T17:39:57.301Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="orlZSV-_IPS4ep_-wmxR" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T17:40:47.942Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1M8GwAXASKyDzs25-uBf" version="20.6.0" type="github">
   <diagram id="pmwp8M2MsjxqH991G53e" name="Page-1">
     <mxGraphModel dx="1318" dy="857" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
@@ -34,8 +34,8 @@
         <mxCell id="VPEV5X91bTU66ZTB7MsX-10" value="Monk &lt;br style=&quot;font-size: 16px;&quot;&gt;Kitchen Liaison" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;perimeterSpacing=0;strokeWidth=0.5;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="408" y="220" width="112" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="VPEV5X91bTU66ZTB7MsX-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Kitchen Supervisor&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;perimeterSpacing=0;strokeWidth=0.5;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="486.87" y="358" width="128.12" height="80.07" as="geometry" />
+        <mxCell id="VPEV5X91bTU66ZTB7MsX-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Kitchen Supervisor&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Cormorant SC;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;perimeterSpacing=0;strokeWidth=0.5;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="486.99" y="352" width="127.9" height="79.93" as="geometry" />
         </mxCell>
         <mxCell id="VPEV5X91bTU66ZTB7MsX-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;oversees&amp;nbsp;&lt;/font&gt;" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Cormorant SC;fontSize=14;verticalAlign=middle;horizontal=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCormorant%2BSC;shadow=1;" parent="1" source="VPEV5X91bTU66ZTB7MsX-37" target="VPEV5X91bTU66ZTB7MsX-1" edge="1">
           <mxGeometry x="-0.1631" relative="1" as="geometry">
@@ -232,12 +232,11 @@
             <mxPoint x="926" y="440" as="targetPoint" />
             <Array as="points">
               <mxPoint x="926" y="456" />
-              <mxPoint x="925" y="456" />
               <mxPoint x="925" y="636" />
               <mxPoint x="207" y="636" />
               <mxPoint x="207" y="435" />
-              <mxPoint x="466" y="435" />
-              <mxPoint x="466" y="339" />
+              <mxPoint x="470" y="435" />
+              <mxPoint x="470" y="339" />
               <mxPoint x="635" y="339" />
               <mxPoint x="635" y="431" />
               <mxPoint x="926" y="431" />
